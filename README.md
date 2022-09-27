@@ -27,7 +27,7 @@ and management the internal DNS resolve and external DNS resolve via this platfo
 
 # environment
 ```
-## langurage: rust v1.63
+## language: rust v1.63
 ## web framework: rocket v0.4.11
 ## database: 5.5.64-MariaDB MariaDB Server
 ## code IDE: jetbrains clion 2022.2.1
