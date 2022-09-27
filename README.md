@@ -17,7 +17,7 @@ and management the internal DNS resolve and external DNS resolve via this platfo
 
 # git
 ```
-## git clone https://github.com/chenjiuhai/yeedns.git 
+## git clone https://github.com/chenjiuhai/tsingdns.git 
 ## git pull #拉数据到本地 
 ## git add --all 
 ## git commit -m"备注信息" 
